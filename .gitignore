@@ -25,4 +25,4 @@ build/
 *.swo
 
 #Ignore media 
-# /media/
+*/media/
